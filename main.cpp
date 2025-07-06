@@ -1,4 +1,12 @@
-﻿#define NOMINMAX
+# SystemEntropyScanner
+
+**Author:** Cadell Richard Anderson  
+**License:** Custom License: SystemEntropyScanner Attribution License (QAL) v1.0
+**Version:** 0.1  
+**Date:** July 2025
+
+#define NOMINMAX
+
 #include <windows.h>
 #include <algorithm>
 #include <iostream>
